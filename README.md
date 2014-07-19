@@ -1,4 +1,10 @@
-geek-camp-affiche
+Geek Camp affiche
 =================
 
-source pour l'affiche
+Installer les polices utilisés
+Pinewood - http://www.dafont.com/pinewood.font
+OldPress - http://www.dafont.com/old-press.font
+
+Ouvrir le .xcf avec Gimp
+
+Amusez-vous!
